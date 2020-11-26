@@ -1,38 +1,98 @@
-.App {
-  text-align: center;
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background: linear-gradient(135deg, #3629a4 0%, #237f8e 100%);
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	min-height: 100vh;
+}
+.intro {
+	font-size: 2rem;
+	min-height: 7.5vh;
+	margin-bottom: -1rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.searchBar {
+	min-height: 10vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0.5rem;
+	font-size: 2rem;
+	border: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.search {
+	min-height: 5vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0.3rem;
+	font-size: 2rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.questionList {
+	display: inline;
+	justify-content: center;
+	align-items: center;
+	min-width: 30%;
+	list-style: none;
 }
 
-.App-link {
-  color: #61dafb;
+.question {
+	margin: 0.5rem;
+	font-size: 1.5rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	transition: all 1s ease;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.answer,
+.correct,
+.answers {
+	margin: 0.5rem;
+	font-size: 1rem;
+	justify-content: space-between;
+	align-items: center;
+	transition: all 1s ease;
+}
+
+.answer {
+	margin: 0.25rem;
+	padding-left: 1rem;
+}
+
+.correct {
+	padding-left: 0.25rem;
+}
+
+.searchBar,
+.qa {
+	color: white;
+	align-items: center;
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+	margin-left: 15rem;
+	margin-right: 15rem;
+	padding-left: 1rem;
+	border: 0.1rem solid white;
+	box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+	transition: all 1s ease;
+}
+
+.searchBar {
+	margin-left: 25rem;
+	margin-right: 25rem;
+}
+
+.pytanie {
+	margin-right: 3rem;
 }
