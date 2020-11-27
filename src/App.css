@@ -80,8 +80,8 @@ body {
 	align-items: center;
 	margin-top: 1.5rem;
 	margin-bottom: 1.5rem;
-	margin-left: 15rem;
-	margin-right: 15rem;
+	margin-left: 10rem;
+	margin-right: 10rem;
 	padding-left: 1rem;
 	border: 0.1rem solid white;
 	box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
@@ -95,4 +95,91 @@ body {
 
 .pytanie {
 	margin-right: 3rem;
+}
+
+@media screen and (max-width: 1440px) {
+	.searchBar {
+		margin-left: 20rem;
+		margin-right: 20rem;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.searchBar {
+		margin-left: 10rem;
+		margin-right: 10rem;
+	}
+	.qa {
+		margin-left: 7.5rem;
+		margin-right: 7.5rem;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.qa {
+		margin-left: 6rem;
+		margin-right: 6rem;
+	}
+	.pytanie {
+		margin-right: 1rem;
+		font-size: 1.5rem;
+	}
+	.search {
+		max-width: 25vh;
+	}
+}
+
+@media screen and (max-width: 425px) {
+	.qa {
+		margin-left: 2.5rem;
+		margin-right: 2.5rem;
+	}
+	.searchBar {
+		margin-left: 3.5rem;
+		margin-right: 3.5rem;
+	}
+	.pytanie {
+		margin-right: 0.5rem;
+		font-size: 1.5rem;
+	}
+	.search {
+		max-width: 20vh;
+	}
+}
+
+@media screen and (max-width: 375px) {
+	.qa {
+		margin-left: 2rem;
+		margin-right: 2rem;
+	}
+	.searchBar {
+		margin-left: 3rem;
+		margin-right: 3rem;
+	}
+	.pytanie {
+		margin-right: 0.5rem;
+		font-size: 1.25rem;
+	}
+	.search {
+		max-width: 17.5vh;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.qa {
+		margin-left: 1.5rem;
+		margin-right: 1.5rem;
+	}
+	.searchBar {
+		margin-left: 2.5rem;
+		margin-right: 2.5rem;
+	}
+	.pytanie {
+		margin-right: 0.25rem;
+		font-size: 1.25rem;
+	}
+	.search {
+		max-width: 15vh;
+		margin-right: 0.25rem;
+	}
 }
