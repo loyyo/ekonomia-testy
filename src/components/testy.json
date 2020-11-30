@@ -1,512 +1,729 @@
 {
-  "questions": [
-    {
-      "question": "Które ze zdań jest prawdziwe",
-      "answers": [
-        {
-          "a": "a. Ekonomia pozytywna wyraża opinie, zalecenie oraz rekomendacje"
-        },
-        {
-          "a": "b. Mikroekonomia jest nauką o gospodarce jako całości"
-        },
-        {
-          "a": "c. Rynek odpowiada na pytania: co? jak? i dla kogo produkować?"
-        },
-        {
-          "a": "d. Milton Friedman żył w tym samych czasach co Adam Smith"
-        }
-      ],
-      "correct": "c"
-      
-    },
-    {
-      "question": "W gospodarce współdziałają ze sobą następujące makrorynki:",
-      "answers": [
-        {
-          "a": "a. dóbr i usług, pieniądza oraz rynek pracy"
-        },
-        {
-          "a": "b. rynek pracy z rynkiem pieniądza"
-        },
-        {
-          "a": "c. dóbr i usług, pracy oraz kapitału"
-        },
-        {
-          "a": "d. tylko rynek pieniądza z rynkiem dóbr i usług"
-        }
-      ],
-      "correct": "a"
-    },
-    {
-      "question": "System gospodarki rynkowej charakteryzuje się:",
-      "answers": [
-        {
-          "a": "a. rynkową alokacją zasobów"
-        },
-        {
-          "a": "b. żadna z odpowiedzi nie jest poprawna"
-        },
-        {
-          "a": "c. planową i nakazową alokacją zasobów"
-        },
-        {
-          "a": "d. większym udziałem własności państwowej niż prywatnej"
-        }
-      ],
-      "correct": "a"
-    },  
-    {
-      "question": "Wybór ekonomiczny wynika z:",
-      "answers": [
-        {
-          "a": "a. ograniczoności potrzeb i ograniczności zasobów"
-        },
-        {
-          "a": "b. nieograniczoności potrzeb i ograniczności zasobów"
-        },
-        {
-          "a": "c. organiczoności potrzeb i nieograniczoności zasobów"
-        },
-        {
-          "a": "d. nieograniczności potrzeb i nieograniczności zasobów"
-        }
-      ],
-      "correct": "b"
-    },  
-    {
-      "question": "Ekonomia należy do nauk",
-      "answers": [
-        {
-          "a": "a.humanistycznych"
-        },
-        {
-          "a": "b.ścisłych"
-        },
-        {
-          "a": "c.przyrodniczych"
-        },
-        {
-          "a": "d.społecznych"
-        }
-      ],
-      "correct": "d"
-    },  
-    {
-      "question": "Który z ekonomistów był twórcą ekonomii klasycznej",
-      "answers": [
-        {
-          "a": "a. Karol Marks"
-        },
-        {
-          "a": "b. L. von Mises"
-        },
-        {
-          "a": "c. Adam  Smith"
-        },
-        {
-          "a": "d. J.M. Keynes"
-        }
-      ],
-      "correct": "c"
-    },  
-    {
-      "question": "Do zagadnień makroekonomii nie należy:",
-      "answers": [
-        {
-          "a": "a. ustalanie ceny na rynku pojedynczego dobra"
-        },
-        {
-          "a": "b. opis mechanizmów równoważenia trzech makrorynków"
-        },
-        {
-          "a": "c. pojęcia popytu zagregowanego i podaży zagregowanej"
-        },
-        {
-          "a": "d. opis procesów, w których uczestniczą zagregowane grupy podmiotów"
-        }
-      ],
-      "correct": "a"
-    },  
-    {
-      "question": "Wśród negatywnych zjawisk w gospodarce można wymienić",
-      "answers": [
-        {
-          "a": "a. politykę fiskalną"
-        },
-        {
-          "a": "b. inflację i bezrobocie"
-        },
-        {
-          "a": "c. wzrost gospodarczy"
-        },
-        {
-          "a": "d. politykę zatrudnienia"
-        }
-      ],
-      "correct": "b"
-    }, 
-    {
-      "question": "Koszt alternatywny",
-      "answers": [
-        {
-          "a": "a. to koszt związany z alternatywnymi żródłami energii"
-        },
-        {
-          "a": "b. jest kosztem utraconych możliwości"
-        },
-        {
-          "a": "c. nie ma takego kosztu w ekonomii"
-        },
-        {
-          "a": "d. to inaczej koszt utopiony"
-        }
-      ],
-      "correct": "b"
-    },  
-    {
-      "question": "Które ze zdań jest zdaniem o charakterze normatywnym",
-      "answers": [
-        {
-          "a": "a. W ostatnim czasie inflacja wzrosła o 3 punkty procentowe"
-        },
-        {
-          "a": "b. Bank centralny powinien dążyć do obniżenia poziomu inflacji"
-        },
-        {
-          "a": "c. Wzrost cen administrowanych wywołał wzrost inflacji"
-        },
-        {
-          "a": "d. Podwyższenie stóp procentowych spowodowało obniżenie inflacji"
-        }
-      ],
-      "correct": "b"
-    },  
-    {
-      "question": "Rynek jest spontanicznym procesem transakcji kupna sprzedaży",
-      "answers": [
-        {
-          "a": "a. NIE"
-        },
-        {
-          "a": "b. TAK"
-        }
-      ],
-      "correct": "b"
-    },  
-    {
-      "question": "Dobra ekonomiczne to",
-      "answers": [
-        {
-          "a": "a. żadna z odpowiedzi nie jest prawdziwa"
-        },
-        {
-          "a": "b. to np. jezioro"
-        },
-        {
-          "a": "c. dobra, na których możemy oszczędzać"
-        },
-        {
-          "a": "d. dobra wytworzone przez człowieka"
-        }
-      ],
-      "correct": "d"
-    },  
-    {
-      "question": "Przedsiębiorstwo:",
-      "answers": [
-        {
-          "a": "a. może być zarówno sprzedawcą jak i nabywcą"
-        },
-        {
-          "a": "b. może być tylko nabywcą"
-        },
-        {
-          "a": "c. może być tylko sprzedawcą"
-        }
-      ],
-      "correct": "a"
-    },  
-    {
-      "question": "Które zdanie jest prawdziwe",
-      "answers": [
-        {
-          "a": "a. Gospodarstwa domowe nabywają czynniki produkcji"
-        },
-        {
-          "a": "b. Gospodarstwo domowe na rynku dóbr reprezentuje stronę podażową"
-        },
-        {
-          "a": "c. Przedsiębiorstwa wypłacają gospodarstwom domowym wynagrodzenie za świadczone usługi czynników produkcji"
-        },
-        {
-          "a": "d. Przedsiębiorstwo na rynku czynników produkcji reprezentuje stronę podażową"
-        }
-      ],
-      "correct": "c"
-    },  
-    {
-      "question": "Oszczędności stanowią",
-      "answers": [
-        {
-          "a": "a. część rynku czynników produkcji"
-        },
-        {
-          "a": "b. procent dochodu przedsiębiorstw"
-        },
-        {
-          "a": "c. przepływ na rynku dóbr i usług"
-        },
-        {
-          "a": "d. niewydaną część dochodu gospodarstw domowych"
-        }
-      ],
-      "correct": "d"
-    },  
-    {
-      "question": "Szara strefa oznacza",
-      "answers": [
-        {
-          "a": "a. sytaucję, której przedmiot transakcji jest legalny, ale transakcja jest realizowana w warunkach nielegalności"
-        },
-        {
-          "a": "b. żadna z odpowiedzi nie jest prawdziwa"
-        },
-        {
-          "a": "c. sytuację handlu towarem zakazanym"
-        },
-        {
-          "a": "d. brak możliwości zakupu lub sprzedaży"
-        }
-      ],
-      "correct": "a"
-    },  
-    {
-      "question": "Pierwsza sprzedaż, pierwszemu nabywcy oznacza transakcję na rynku",
-      "answers": [
-        {
-          "a": "a. czarnym"
-        },
-        {
-          "a": "b. doskonałym"
-        },
-        {
-          "a": "c. pierwotnym"
-        },
-        {
-          "a": "d. wtórnym"
-        }
-      ],
-      "correct": "c"
-    },  
-    {
-      "question": "Inwestycje przedsiębiorstw",
-      "answers": [
-        {
-          "a": "a. wszystkie odpowiedzi są prawidłowe"
-        },
-        {
-          "a": "b. są realizowane dzięki pozyskiwaniu kredytów lub pożyczek bankowych"
-        },
-        {
-          "a": "c. polegają na powiększaniu ich majątku trwałego"
-        },
-        {
-          "a": "d. realizowane są dzięki oszczędnościom gospodarstw domowych"
-        }
-      ],
-      "correct": "a"
-    },  
-    {
-      "question": "Konkurencja dosknała",
-      "answers": [
-        {
-          "a": "a. nie istnieje"
-        },
-        {
-          "a": "b. istnieje np. na rynku produktów rolnych"
-        },
-        {
-          "a": "c. oznacza rynek jednego nabywcy"
-        },
-        {
-          "a": "d. oznacza, rynek jednego producenta"
-        }
-      ],
-      "correct": "b"
-    },  
-    {
-      "question": "Rynek",
-      "answers": [
-        {
-          "a": "a. jest planowanym sposobem alokacji zasobów"
-        },
-        {
-          "a": "b. nie podlega zmianom"
-        },
-        {
-          "a": "c. został zbudowany na podstawie teorii J.F. Smitha"
-        },
-        {
-          "a": "d. jest zawodny i niedoskonały"
-        }
-      ],
-      "correct": "d"
-    }, 
-    {
-      "question": "Sformułowanie, że wraz ze wzrostem ceny wielkość popytu maleje odnosi się do:",
-      "answers": [
-        {
-          "a": "a. paradoksu snoba"
-        },
-        {
-          "a": "b. paradoksu Veblena"
-        },
-        {
-          "a": "c. prawa popytu"
-        },
-        {
-          "a": "d. paradoksu Giffena"
-        }
-      ],
-      "correct": "c"
-    },
-    {
-      "question": "Spadek popytu na danym rynku:",
-      "answers": [
-        {
-          "a": "a. może być wywołany przez spadek dochodów"
-        },
-        {
-          "a": "b. odzwierciedlany jest ruchem całej krzywej w prawo"
-        },
-        {
-          "a": "c. oznacza obniżenie ceny tego dobra"
-        },
-        {
-          "a": "d. może być wywołany wejściem danego towaru w modę"
-        }
-      ],
-      "correct": "a"
-    },
-      
-    {
-      "question": "Popytem nazywamy:",
-      "answers": [
-        {
-          "a": "a. funkcję ceny od od czasu"
-        },
-        {
-          "a": "b. dodatnią zależność między ceną a ilością towaru"
-        },
-        {
-          "a": "c. zależność między ilością nabywaną dobra a jego oceną"
-        },
-        {
-          "a": "d. ilość nabywanego popytu"
-        }
-    ],
-      "correct": "c"
-    },  
-    {
-      "question": "Przesunięcie krzywej popytu w lewo na rynku danego dobra może być spowodowane:",
-      "answers": [
-        {
-          "a": "a. spadkiem cen dobra substytucyjnego"
-        },
-        {
-          "a": "b. spadkiem ceny rozpatrywanego dobra dobra"
-        },
-        {
-          "a": "c. oczekiwania co do wzrostu cen w przyszłości"
-        },
-        {
-          "a": "d. zwiększeniem liczby konsumentów"
-        }
-    ],
-      "correct": "a"
-    },  
-    {
-      "question": "Paradoks Giffena odnosi się:",
-      "answers": [
-        {
-          "a": "a. dóbr podstawowych"
-        },
-        {
-          "a": "b. dóbr luksusowych"
-        },
-        {
-          "a": "c. żadnych z wymienionych"
-        },
-        {
-          "a": "d. dóbr substytucyjnych"
-        }
-      ],
-      "correct": "a"
-    }
-  ],
-  "rynek": {
-    "question": "Dopasuj opis do rodzaju struktury rynkowej",
-    "answers": [
-      {
-        "a": "rynek, na któym producent jest cenotwórcą --- ",
-        "b": "monopol"
-      },
-      {
-        "a": "konkurencja cenowa na tym rynku jest ryzykowna --- ",
-        "b": "oligopol"
-      },
-      {
-        "a": "rynek kilkunastu sprzedawców --- ",
-        "b": "konkurencja monopolistyczna"
-      },
-      {
-        "a": "konkurencja na tym rynku ma charakter cenowy --- ",
-        "b": "konkurencja doskonała"
-      },
-      {
-        "a": "rynek, na którym producent jest cenobiorcą --- ",
-        "b": "konkurencja doskonała"
-      },
-      {
-        "a": "żaden podmiot nie ma znaczącego udziału w rynku --- ",
-        "b": "konkurencja doskonała"
-      },
-      {
-        "a": "rynek towarów będących identyczynymi substytutami --- ",
-        "b": "konkurencja doskonała"
-      },
-      {
-        "a": "przedmiotem transakcji unikatowy produkt --- ",
-        "b": "monopol"
-      },
-      {
-        "a": "rynek, na którym istnieje kilku większych sprzedawców --- ",
-        "b": "oligopol"
-      },
-      {
-        "a": "istnieją ekonomiczne, technologiczne i prawne bariery wejścia na rynek --- ",
-        "b": "oligopol"
-      },
-      {
-        "a": "nie ma żadnych barier wejścia ani wyjścia na ten rynek --- ",
-        "b": "konkurencja doskonała"
-      },
-      {
-        "a": "towary są bliskimi substytutami, stąd istnieje potrzeba reklamy --- ",
-        "b": "konkurencja monopolistyczna"
-      },
-      {
-        "a": "rynek, na którym często dochodzi do zmów cenowych --- ",
-        "b": "oligopol"
-      },
-      {
-        "a": "rynek, na którym istnieje tylko jeden producent danego towaru --- ",
-        "b": "monopol"
-      },
-      {
-        "a": "towar na tym rynku jest mocno zróżnicowany pod względem koloru, kształu, fasonu... --- ",
-        "b": "oligopol"
-      }
-    ]
-  }
+	"questions": [
+		{
+			"question": "Które ze zdań jest prawdziwe",
+			"answers": [
+				{
+					"a": "a. Ekonomia pozytywna wyraża opinie, zalecenie oraz rekomendacje"
+				},
+				{
+					"a": "b. Mikroekonomia jest nauką o gospodarce jako całości"
+				},
+				{
+					"a": "c. Rynek odpowiada na pytania: co? jak? i dla kogo produkować?"
+				},
+				{
+					"a": "d. Milton Friedman żył w tym samych czasach co Adam Smith"
+				}
+			],
+			"correct": "c"
+		},
+		{
+			"question": "W gospodarce współdziałają ze sobą następujące makrorynki:",
+			"answers": [
+				{
+					"a": "a. dóbr i usług, pieniądza oraz rynek pracy"
+				},
+				{
+					"a": "b. rynek pracy z rynkiem pieniądza"
+				},
+				{
+					"a": "c. dóbr i usług, pracy oraz kapitału"
+				},
+				{
+					"a": "d. tylko rynek pieniądza z rynkiem dóbr i usług"
+				}
+			],
+			"correct": "a"
+		},
+		{
+			"question": "System gospodarki rynkowej charakteryzuje się:",
+			"answers": [
+				{
+					"a": "a. rynkową alokacją zasobów"
+				},
+				{
+					"a": "b. żadna z odpowiedzi nie jest poprawna"
+				},
+				{
+					"a": "c. planową i nakazową alokacją zasobów"
+				},
+				{
+					"a": "d. większym udziałem własności państwowej niż prywatnej"
+				}
+			],
+			"correct": "a"
+		},
+		{
+			"question": "Wybór ekonomiczny wynika z:",
+			"answers": [
+				{
+					"a": "a. ograniczoności potrzeb i ograniczności zasobów"
+				},
+				{
+					"a": "b. nieograniczoności potrzeb i ograniczności zasobów"
+				},
+				{
+					"a": "c. organiczoności potrzeb i nieograniczoności zasobów"
+				},
+				{
+					"a": "d. nieograniczności potrzeb i nieograniczności zasobów"
+				}
+			],
+			"correct": "b"
+		},
+		{
+			"question": "Ekonomia należy do nauk",
+			"answers": [
+				{
+					"a": "a.humanistycznych"
+				},
+				{
+					"a": "b.ścisłych"
+				},
+				{
+					"a": "c.przyrodniczych"
+				},
+				{
+					"a": "d.społecznych"
+				}
+			],
+			"correct": "d"
+		},
+		{
+			"question": "Który z ekonomistów był twórcą ekonomii klasycznej",
+			"answers": [
+				{
+					"a": "a. Karol Marks"
+				},
+				{
+					"a": "b. L. von Mises"
+				},
+				{
+					"a": "c. Adam  Smith"
+				},
+				{
+					"a": "d. J.M. Keynes"
+				}
+			],
+			"correct": "c"
+		},
+		{
+			"question": "Do zagadnień makroekonomii nie należy:",
+			"answers": [
+				{
+					"a": "a. ustalanie ceny na rynku pojedynczego dobra"
+				},
+				{
+					"a": "b. opis mechanizmów równoważenia trzech makrorynków"
+				},
+				{
+					"a": "c. pojęcia popytu zagregowanego i podaży zagregowanej"
+				},
+				{
+					"a": "d. opis procesów, w których uczestniczą zagregowane grupy podmiotów"
+				}
+			],
+			"correct": "a"
+		},
+		{
+			"question": "Wśród negatywnych zjawisk w gospodarce można wymienić",
+			"answers": [
+				{
+					"a": "a. politykę fiskalną"
+				},
+				{
+					"a": "b. inflację i bezrobocie"
+				},
+				{
+					"a": "c. wzrost gospodarczy"
+				},
+				{
+					"a": "d. politykę zatrudnienia"
+				}
+			],
+			"correct": "b"
+		},
+		{
+			"question": "Koszt alternatywny",
+			"answers": [
+				{
+					"a": "a. to koszt związany z alternatywnymi żródłami energii"
+				},
+				{
+					"a": "b. jest kosztem utraconych możliwości"
+				},
+				{
+					"a": "c. nie ma takego kosztu w ekonomii"
+				},
+				{
+					"a": "d. to inaczej koszt utopiony"
+				}
+			],
+			"correct": "b"
+		},
+		{
+			"question": "Które ze zdań jest zdaniem o charakterze normatywnym",
+			"answers": [
+				{
+					"a": "a. W ostatnim czasie inflacja wzrosła o 3 punkty procentowe"
+				},
+				{
+					"a": "b. Bank centralny powinien dążyć do obniżenia poziomu inflacji"
+				},
+				{
+					"a": "c. Wzrost cen administrowanych wywołał wzrost inflacji"
+				},
+				{
+					"a": "d. Podwyższenie stóp procentowych spowodowało obniżenie inflacji"
+				}
+			],
+			"correct": "b"
+		},
+		{
+			"question": "Rynek jest spontanicznym procesem transakcji kupna sprzedaży",
+			"answers": [
+				{
+					"a": "a. NIE"
+				},
+				{
+					"a": "b. TAK"
+				}
+			],
+			"correct": "b"
+		},
+		{
+			"question": "Dobra ekonomiczne to",
+			"answers": [
+				{
+					"a": "a. żadna z odpowiedzi nie jest prawdziwa"
+				},
+				{
+					"a": "b. to np. jezioro"
+				},
+				{
+					"a": "c. dobra, na których możemy oszczędzać"
+				},
+				{
+					"a": "d. dobra wytworzone przez człowieka"
+				}
+			],
+			"correct": "d"
+		},
+		{
+			"question": "Przedsiębiorstwo:",
+			"answers": [
+				{
+					"a": "a. może być zarówno sprzedawcą jak i nabywcą"
+				},
+				{
+					"a": "b. może być tylko nabywcą"
+				},
+				{
+					"a": "c. może być tylko sprzedawcą"
+				}
+			],
+			"correct": "a"
+		},
+		{
+			"question": "Które zdanie jest prawdziwe",
+			"answers": [
+				{
+					"a": "a. Gospodarstwa domowe nabywają czynniki produkcji"
+				},
+				{
+					"a": "b. Gospodarstwo domowe na rynku dóbr reprezentuje stronę podażową"
+				},
+				{
+					"a": "c. Przedsiębiorstwa wypłacają gospodarstwom domowym wynagrodzenie za świadczone usługi czynników produkcji"
+				},
+				{
+					"a": "d. Przedsiębiorstwo na rynku czynników produkcji reprezentuje stronę podażową"
+				}
+			],
+			"correct": "c"
+		},
+		{
+			"question": "Oszczędności stanowią",
+			"answers": [
+				{
+					"a": "a. część rynku czynników produkcji"
+				},
+				{
+					"a": "b. procent dochodu przedsiębiorstw"
+				},
+				{
+					"a": "c. przepływ na rynku dóbr i usług"
+				},
+				{
+					"a": "d. niewydaną część dochodu gospodarstw domowych"
+				}
+			],
+			"correct": "d"
+		},
+		{
+			"question": "Szara strefa oznacza",
+			"answers": [
+				{
+					"a": "a. sytaucję, której przedmiot transakcji jest legalny, ale transakcja jest realizowana w warunkach nielegalności"
+				},
+				{
+					"a": "b. żadna z odpowiedzi nie jest prawdziwa"
+				},
+				{
+					"a": "c. sytuację handlu towarem zakazanym"
+				},
+				{
+					"a": "d. brak możliwości zakupu lub sprzedaży"
+				}
+			],
+			"correct": "a"
+		},
+		{
+			"question": "Pierwsza sprzedaż, pierwszemu nabywcy oznacza transakcję na rynku",
+			"answers": [
+				{
+					"a": "a. czarnym"
+				},
+				{
+					"a": "b. doskonałym"
+				},
+				{
+					"a": "c. pierwotnym"
+				},
+				{
+					"a": "d. wtórnym"
+				}
+			],
+			"correct": "c"
+		},
+		{
+			"question": "Inwestycje przedsiębiorstw",
+			"answers": [
+				{
+					"a": "a. wszystkie odpowiedzi są prawidłowe"
+				},
+				{
+					"a": "b. są realizowane dzięki pozyskiwaniu kredytów lub pożyczek bankowych"
+				},
+				{
+					"a": "c. polegają na powiększaniu ich majątku trwałego"
+				},
+				{
+					"a": "d. realizowane są dzięki oszczędnościom gospodarstw domowych"
+				}
+			],
+			"correct": "a"
+		},
+		{
+			"question": "Konkurencja dosknała",
+			"answers": [
+				{
+					"a": "a. nie istnieje"
+				},
+				{
+					"a": "b. istnieje np. na rynku produktów rolnych"
+				},
+				{
+					"a": "c. oznacza rynek jednego nabywcy"
+				},
+				{
+					"a": "d. oznacza, rynek jednego producenta"
+				}
+			],
+			"correct": "b"
+		},
+		{
+			"question": "Rynek",
+			"answers": [
+				{
+					"a": "a. jest planowanym sposobem alokacji zasobów"
+				},
+				{
+					"a": "b. nie podlega zmianom"
+				},
+				{
+					"a": "c. został zbudowany na podstawie teorii J.F. Smitha"
+				},
+				{
+					"a": "d. jest zawodny i niedoskonały"
+				}
+			],
+			"correct": "d"
+		},
+		{
+			"question": "Sformułowanie, że wraz ze wzrostem ceny wielkość popytu maleje odnosi się do:",
+			"answers": [
+				{
+					"a": "a. paradoksu snoba"
+				},
+				{
+					"a": "b. paradoksu Veblena"
+				},
+				{
+					"a": "c. prawa popytu"
+				},
+				{
+					"a": "d. paradoksu Giffena"
+				}
+			],
+			"correct": "c"
+		},
+		{
+			"question": "Spadek popytu na danym rynku:",
+			"answers": [
+				{
+					"a": "a. może być wywołany przez spadek dochodów"
+				},
+				{
+					"a": "b. odzwierciedlany jest ruchem całej krzywej w prawo"
+				},
+				{
+					"a": "c. oznacza obniżenie ceny tego dobra"
+				},
+				{
+					"a": "d. może być wywołany wejściem danego towaru w modę"
+				}
+			],
+			"correct": "a"
+		},
+
+		{
+			"question": "Popytem nazywamy:",
+			"answers": [
+				{
+					"a": "a. funkcję ceny od od czasu"
+				},
+				{
+					"a": "b. dodatnią zależność między ceną a ilością towaru"
+				},
+				{
+					"a": "c. zależność między ilością nabywaną dobra a jego oceną"
+				},
+				{
+					"a": "d. ilość nabywanego popytu"
+				}
+			],
+			"correct": "c"
+		},
+		{
+			"question": "Przesunięcie krzywej popytu w lewo na rynku danego dobra może być spowodowane:",
+			"answers": [
+				{
+					"a": "a. spadkiem cen dobra substytucyjnego"
+				},
+				{
+					"a": "b. spadkiem ceny rozpatrywanego dobra dobra"
+				},
+				{
+					"a": "c. oczekiwania co do wzrostu cen w przyszłości"
+				},
+				{
+					"a": "d. zwiększeniem liczby konsumentów"
+				}
+			],
+			"correct": "a"
+		},
+		{
+			"question": "Paradoks Giffena odnosi się:",
+			"answers": [
+				{
+					"a": "a. dóbr podstawowych"
+				},
+				{
+					"a": "b. dóbr luksusowych"
+				},
+				{
+					"a": "c. żadnych z wymienionych"
+				},
+				{
+					"a": "d. dóbr substytucyjnych"
+				}
+			],
+			"correct": "a"
+		},
+		{
+			"question": "Wraz ze zmniejszającymi się kosztami przeciętnymi w długim okresie czasu pojawiają się tzw. korzyści skali",
+			"answers": [
+				{
+					"a": "a. Prawda"
+				},
+				{
+					"a": "b. Fałsz"
+				}
+			],
+			"correct": "a"
+		},
+		{
+			"question": "Techniczne optimum produkcji",
+			"answers": [
+				{
+					"a": "a. oznacza moment, w którym koszty przeciętne zrównują się z utargiem przeciętnym"
+				},
+				{
+					"a": "b. to wielkość produkcji, w którym koszty krańcowe są równe kosztom przeciętnym"
+				},
+				{
+					"a": "c. wyznaczane są przez punk, w którym koszty przeciętne są najwyższe"
+				},
+				{
+					"a": "d. nie isnieje"
+				}
+			],
+			"correct": "b"
+		},
+		{
+			"question": "Punkt Cournota",
+			"answers": [
+				{
+					"a": "a. dotyczy sytuacji na rynku doskonale konkurencyjnym"
+				},
+				{
+					"a": "b. oznacza wielkość produkcji, przy której zysk konsumenta jest maksymalny"
+				},
+				{
+					"a": "c. to inaczej techniczne optimum produkcji"
+				},
+				{
+					"a": "d. żadna z odpowiedzi nie jest prawdziwa"
+				}
+			],
+			"correct": "d"
+		},
+		{
+			"question": "Przeciętne koszty stałe",
+			"answers": [
+				{
+					"a": "a. maleją wraz ze wzrostem produkcji"
+				},
+				{
+					"a": "b. są wartością niemierzalną"
+				},
+				{
+					"a": "c. są niezmienne w całym procesie produkcji"
+				},
+				{
+					"a": "d. rosną wraz ze wzrostem produkcji"
+				}
+			],
+			"correct": "a"
+		},
+		{
+			"question": "Jedną z metod maksymalizacji zysku jest analiza marginalna, polegającą na poszukiwaniu poziomu produkcji, przy którym produkt przeciętny jest najmniejszy",
+			"answers": [
+				{
+					"a": "a. Prawda"
+				},
+				{
+					"a": "b. Fałsz"
+				}
+			],
+			"correct": "b"
+		},
+		{
+			"question": "Cena równowagi jest ceną ",
+			"answers": [
+				{
+					"a": "a. żadna z odpowiedzi nie jest prawdziwa"
+				},
+				{
+					"a": "b. przy której rynek zostaje oczyszczony ze wszystkich niedoborów i nadwyżek"
+				},
+				{
+					"a": "c. przy której istnieje nadwyżka podaży"
+				},
+				{
+					"a": "d. przy której istnieje nadwyżka popytu"
+				}
+			],
+			"correct": "b"
+		},
+		{
+			"question": "Cena minimalna",
+			"answers": [
+				{
+					"a": "a. jest zawsze wyższa od ceny równowagi rynkowej"
+				},
+				{
+					"a": "b. ustalana jest pod wpływem działania mechanizmu rynkowego"
+				},
+				{
+					"a": "c. jest ustalana gdy niezadowoleni są konsumenci"
+				},
+				{
+					"a": "d. prowadzi do pojawienia się nadwyżki popytu nad podażą"
+				}
+			],
+			"correct": "a"
+		},
+		{
+			"question": "Cena maksymalna",
+			"answers": [
+				{
+					"a": "a. jest ustalana gdy niezadowoleni są producenci"
+				},
+				{
+					"a": "b. pociąga za sobą konsekwencje w postaci interwencyjnych skupów towarów przez państwo"
+				},
+				{
+					"a": "c. jest zawsze wyższa od ceny równowagi rynkowej"
+				},
+				{
+					"a": "d. prowadzi do pojawienia się nadwyżki popytu nad podażą"
+				}
+			],
+			"correct": "d"
+		},
+		{
+			"question": "Prawo podaży mówi, że ",
+			"answers": [
+				{
+					"a": "a. wraz ze spadkiem ceny wielkość podaży maleje"
+				},
+				{
+					"a": "b. wraz ze wzrostem ceny wielkość podaży rośnie"
+				},
+				{
+					"a": "c. wraz ze wzrostem ceny wielkość podaży maleje"
+				},
+				{
+					"a": "d. wraz ze spadkiem ceny wielkość podaży rośnie"
+				}
+			],
+			"correct": "A + B"
+		},
+		{
+			"question": "Podaż jest zależnością między ilością dobra jaką konsumenci są skłonni zaoferować na rynku przy danej cenie, ceteris paribus",
+			"answers": [
+				{
+					"a": "a. Prawda"
+				},
+				{
+					"a": "b. Fałsz"
+				}
+			],
+			"correct": "b"
+		},
+		{
+			"question": "Podaż potencjalna jest zawsze większa od realnej",
+			"answers": [
+				{
+					"a": "a. Prawda"
+				},
+				{
+					"a": "b. Fałsz"
+				}
+			],
+			"correct": "b"
+		}
+	],
+	"rynek": [
+		{
+			"question": "Dopasuj opis do rodzaju struktury rynkowej",
+			"answers": [
+				{
+					"a": "rynek, na któym producent jest cenotwórcą --- ",
+					"b": "monopol"
+				},
+				{
+					"a": "konkurencja cenowa na tym rynku jest ryzykowna --- ",
+					"b": "oligopol"
+				},
+				{
+					"a": "rynek kilkunastu sprzedawców --- ",
+					"b": "konkurencja monopolistyczna"
+				},
+				{
+					"a": "konkurencja na tym rynku ma charakter cenowy --- ",
+					"b": "konkurencja doskonała"
+				},
+				{
+					"a": "rynek, na którym producent jest cenobiorcą --- ",
+					"b": "konkurencja doskonała"
+				},
+				{
+					"a": "żaden podmiot nie ma znaczącego udziału w rynku --- ",
+					"b": "konkurencja doskonała"
+				},
+				{
+					"a": "rynek towarów będących identyczynymi substytutami --- ",
+					"b": "konkurencja doskonała"
+				},
+				{
+					"a": "przedmiotem transakcji unikatowy produkt --- ",
+					"b": "monopol"
+				},
+				{
+					"a": "rynek, na którym istnieje kilku większych sprzedawców --- ",
+					"b": "oligopol"
+				},
+				{
+					"a": "istnieją ekonomiczne, technologiczne i prawne bariery wejścia na rynek --- ",
+					"b": "oligopol"
+				},
+				{
+					"a": "nie ma żadnych barier wejścia ani wyjścia na ten rynek --- ",
+					"b": "konkurencja doskonała"
+				},
+				{
+					"a": "towary są bliskimi substytutami, stąd istnieje potrzeba reklamy --- ",
+					"b": "konkurencja monopolistyczna"
+				},
+				{
+					"a": "rynek, na którym często dochodzi do zmów cenowych --- ",
+					"b": "oligopol"
+				},
+				{
+					"a": "rynek, na którym istnieje tylko jeden producent danego towaru --- ",
+					"b": "monopol"
+				},
+				{
+					"a": "towar na tym rynku jest mocno zróżnicowany pod względem koloru, kształu, fasonu... --- ",
+					"b": "oligopol"
+				}
+			]
+		},
+		{
+			"question": "Które z podanych czynników doprowadzą do wzrostu, a które do spadku podaży",
+			"answers": [
+				{
+					"a": "wzrost kosztów wytwarzania --- ",
+					"b": "spadek podaży"
+				},
+				{
+					"a": "wzrost cen surowców --- ",
+					"b": "spadek podaży"
+				},
+				{
+					"a": "spadek importu --- ",
+					"b": "spadek podaży"
+				},
+				{
+					"a": "spadek podatku akcyzowego --- ",
+					"b": "wzrost podaży"
+				},
+				{
+					"a": "spadek eksportu --- ",
+					"b": "wzrost podaży"
+				},
+				{
+					"a": "wzrost importu --- ",
+					"b": "wzrost podaży"
+				}
+			]
+		},
+		{
+			"question": "Na wykresie podaży",
+			"answers": [
+				{
+					"a": "cena jest --- ",
+					"b": "zmienną niezależną"
+				},
+				{
+					"a": "wielkość podaży jest --- ",
+					"b": "zmienną zależną"
+				}
+			]
+		}
+	]
 }
