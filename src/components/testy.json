@@ -619,6 +619,247 @@
 	],
 	"rynek": [
 		{
+			"question": "Co stanie się ceną i ilością równowagi rynkowej, przy założeniu, że podaż jest niezmienna, jeżeli",
+			"answers": [
+				{
+					"a": "nastąpi wzrost popytu (podaż doskonale elastyczne) --- ",
+					"b": "wzrośnie tylko ilość równowagi"
+				},
+				{
+					"a": "nastąpi wzrost popytu (podaż proporcjonalnie elastyczna cenowo) --- ",
+					"b": "wzrośnie cena oraz ilość równowagi"
+				},
+				{
+					"a": "nastąpi spadek popytu (podaż proporcjonalnie elastyczna cenowo) --- ",
+					"b": "spadnie cena oraz ilość równowagi"
+				},
+				{
+					"a": "nastąpi wzrost popytu (podaż nieelastyczna, sztywna) --- ",
+					"b": "wzrośnie tylko cena równowagi"
+				}
+			]
+		},
+		{
+			"question": "Połącz",
+			"answers": [
+				{
+					"a": "Przy wzroście płac - prowadzić będzie do stosowania bardziej kapitałochłonnej techniki wytwarzania, a więc zmniejszenia popytu na pracę --- ",
+					"b": "efekt substytucyjny"
+				},
+				{
+					"a": "Przy wzroście płac nastąpi wzrost kosztów, niższy poziom produkcji, zmniejszenie wtórnego popytu na pracę --- ",
+					"b": "efekt dochodowy"
+				}
+			]
+		},
+		{
+			"question": "Zdecyduj, czy dane zdarzenie wpływa bezpośrednio na popyt czy podaż",
+			"answers": [
+				{
+					"a": "długotrwała susza --- ",
+					"b": "podaż"
+				},
+				{
+					"a": "wzrost importu --- ",
+					"b": "podaż"
+				},
+				{
+					"a": "wzrost cen towarów komplementarnych --- ",
+					"b": "popyt"
+				},
+				{
+					"a": "wzrost cen energii elektrycznej --- ",
+					"b": "podaż"
+				},
+				{
+					"a": "przewidywania co do cen przyszłości --- ",
+					"b": "popyt"
+				},
+				{
+					"a": "spadek eksportu --- ",
+					"b": "podaż"
+				},
+				{
+					"a": "wzrost dochodów konsumentów --- ",
+					"b": "popyt"
+				},
+				{
+					"a": "wzrost kosztów wytwarzania --- ",
+					"b": "podaż"
+				}
+			]
+		},
+		{
+			"question": "Jak zmieni się cena oraz ilość równowagi rynkowej jeżeli wystąpią następujące okoliczności",
+			"answers": [
+				{
+					"a": "nastąpi wzrost podaży przy niezmienionym popycie --- ",
+					"b": "cena zmaleje a ilość równowagi wzrośnie"
+				},
+				{
+					"a": "nastąpi spadek podaży przy niezmienionym popycie --- ",
+					"b": "cena wzrośnie a ilość równowagi zmaleje"
+				}
+			]
+		},
+		{
+			"question": "Połącz",
+			"answers": [
+				{
+					"a": "Popyt pierwotny na pracę zależy od: --- ",
+					"b": "wysokości płacy"
+				},
+				{
+					"a": "Popyt wtórny na pracę zależy od: --- ",
+					"b": "popytu na dobra i usługi, których ta praca dotyczy"
+				}
+			]
+		},
+		{
+			"question": "Połącz",
+			"answers": [
+				{
+					"a": "Optimum techniczne produkcji --- ",
+					"b": "koszt krańcowy = kosztowi przeciętnemu"
+				},
+				{
+					"a": "Ekonomiczne optimum produkcji --- ",
+					"b": "punkt w którym monopolista osiąga maksymalny zysk"
+				},
+				{
+					"a": "Zysk maksymalny --- ",
+					"b": "koszt krańcowy = utargowi krańcowemu"
+				}
+			]
+		},
+		{
+			"question": "Połącz",
+			"answers": [
+				{
+					"a": "Wraz ze wzrostem płacy --- ",
+					"b": "wzrasta wielkość podaży pracy"
+				},
+				{
+					"a": "Wraz ze spadkiem płacy --- ",
+					"b": "wzrasta wielkość popytu na prace"
+				}
+			]
+		},
+		{
+			"question": "Przyporządkuj nazwy cen do podanych definicji",
+			"answers": [
+				{
+					"a": "Cena, która jest wyższa od ceny równowagi rynkowej to --- ",
+					"b": "cena minimalna"
+				},
+				{
+					"a": "Cena, przy której ilość nabywana zrównuje się z ilością oferowaną na rynku to: --- ",
+					"b": "cena równowagi rynkowej"
+				},
+				{
+					"a": "Cena, która jest niższa od ceny równowagi rynkowej to: --- ",
+					"b": "cena maksymalna"
+				}
+			]
+		},
+		{
+			"question": "Dopasuj",
+			"answers": [
+				{
+					"a": "Popyt na pracę --- ",
+					"b": "reprezentują pracodawcy"
+				},
+				{
+					"a": "Podaż pracy --- ",
+					"b": "reprezentują ludzie w wieku produkcyjnym"
+				}
+			]
+		},
+		{
+			"question": "Dopasuj wydatki do rodzaju kosztu",
+			"answers": [
+				{
+					"a": "rata kredytu --- ",
+					"b": "koszt stały"
+				},
+				{
+					"a": "czynsz za wynajem biura --- ",
+					"b": "koszt stały"
+				},
+				{
+					"a": "opłata za wodę żywaną do produkcji --- ",
+					"b": "koszt zmienny"
+				},
+				{
+					"a": "wynagrodzenie pracowników administracyjnch --- ",
+					"b": "koszt stały"
+				},
+				{
+					"a": "wynagrodzenie pracowników produkcyjnych --- ",
+					"b": "koszt zmienny"
+				},
+				{
+					"a": "wydatki na paliwo --- ",
+					"b": "koszt zmienny"
+				}
+			]
+		},
+		{
+			"question": "Połącz",
+			"answers": [
+				{
+					"a": "Dopóki dodatkowy przychód jest większy od płacy czyli kosztu zatrudnienia tego pracownika: --- ",
+					"b": "firmie opłaci się zwiększać zatrudnienie"
+				},
+				{
+					"a": "Dopóki dodatkowy przychód jest mniejszy od płacy czyli kosztu zatrudnienia tego pracownika: --- ",
+					"b": "firmie nie opłaca się zwiększać zatrudnienia"
+				}
+			]
+		},
+		{
+			"question": "Dopasuj sytuację rynkową na rodzaju ceny",
+			"answers": [
+				{
+					"a": "Niezadowolenie konsumentów ze zbyt wysokich cen doprowadza do wprowadzenia przez rząd --- ",
+					"b": "ceny maksymalnej"
+				},
+				{
+					"a": "Niezadowolenie producentów ze zbyt niskich cen doprowadza do wprowadzenia przez rząd --- ",
+					"b": "ceny minimalnej"
+				},
+				{
+					"a": "Reglamentacja deficytowego dobra będzie skutkiem ustalenia przez rząd --- ",
+					"b": "ceny maksymalnej"
+				},
+				{
+					"a": "Interwencyjny skup produktów może być skutkiem wprowadzenia przez rząd --- ",
+					"b": "ceny minimalnej"
+				}
+			]
+		},
+		{
+			"question": "Połącz sytuacje nierównowagi rynkowej z odpowiednim stanem niedoboru lub nadwyżki",
+			"answers": [
+				{
+					"a": "Jeżeli rząd wprowadzi ceny minimalne to w konsekwencji na rynku powstanie --- ",
+					"b": "nadwyżka podaży nad popytem"
+				},
+				{
+					"a": "Jeżeli cena rynkowa jest niższa od ceny równowagi to na rynku pojawia się --- ",
+					"b": "niedobór podaży nad popytem"
+				},
+				{
+					"a": "Jeżeli rząd wprowadzi ceny maksymalne to w konsekwencji na rynku powstanie --- ",
+					"b": "niedobór podaży nad popytem"
+				},
+				{
+					"a": "Jeżeli cena rynkowa jest wyższa od ceny równowagi to na rynku pojawia się --- ",
+					"b": "nadwyżka podaży nad popytem"
+				}
+			]
+		},
+		{
 			"question": "Dopasuj opis do rodzaju struktury rynkowej",
 			"answers": [
 				{

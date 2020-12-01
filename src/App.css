@@ -4,8 +4,8 @@
 	box-sizing: border-box;
 }
 body {
-	background: linear-gradient(135deg, #3629a4 0%, #237f8e 100%);
-	color: white;
+	background: linear-gradient(135deg, #201a5a 0%, #206069 100%);
+	color: rgb(230, 230, 230);
 	font-family: 'Poppins', sans-serif;
 	min-height: 100vh;
 }
@@ -76,7 +76,7 @@ body {
 
 .searchBar,
 .qa {
-	color: white;
+	color: rgb(230, 230, 230);
 	align-items: center;
 	margin-top: 1.5rem;
 	margin-bottom: 1.5rem;
