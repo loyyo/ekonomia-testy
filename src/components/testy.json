@@ -19,6 +19,42 @@
 			"correct": "c"
 		},
 		{
+			"question": "Amortyzacja oznacza",
+			"answers": [
+				{
+					"a": "a. zwiększenie majątku trwałego"
+				},
+				{
+					"a": "b. zużycie majątku trwałego"
+				},
+				{
+					"a": "c. bufor dla gospodarki"
+				},
+				{
+					"a": "d. produkcję pośrednią"
+				}
+			],
+			"correct": "b"
+		},
+		{
+			"question": "Które ze zdań jest prawidłowe?",
+			"answers": [
+				{
+					"a": "a. PNN oblicza się poprzez dodanie wartości amortyzacji do PNB"
+				},
+				{
+					"a": "b. PKB jest większe od DN"
+				},
+				{
+					"a": "c. PKB może być równy PNB"
+				},
+				{
+					"a": "d. Saldo dochodów netto z tytułu własności zagranicy jest zawsze dodatnie"
+				}
+			],
+			"correct": "c"
+		},
+		{
 			"question": "W gospodarce współdziałają ze sobą następujące makrorynki:",
 			"answers": [
 				{
@@ -963,6 +999,149 @@
 				{
 					"a": "wielkość podaży jest --- ",
 					"b": "zmienną zależną"
+				}
+			]
+		},
+		{
+			"question": "Dopasuj zjawisko do określonej fazy cyklu koniunkturalnego",
+			"answers": [
+				{
+					"a": "niskie bezrobocie, któremy towarzyszy wysoka inflacja --- ",
+					"b": "boom gospodarczy"
+				},
+				{
+					"a": "niski poziom inwestycji --- ",
+					"b": "faza recesji"
+				},
+				{
+					"a": "spadek PKB --- ",
+					"b": "faza spowolnienia"
+				},
+				{
+					"a": "wzrost bezrobocia --- ",
+					"b": "faza spowolnienia"
+				},
+				{
+					"a": "produkcja na bardzo niskim poziomie --- ",
+					"b": "faza recesji"
+				},
+				{
+					"a": "wzrost inwestycji --- ",
+					"b": "faza ożywienia"
+				},
+				{
+					"a": "produkcja na poziomie produkcji potencjalnej --- ",
+					"b": "boom gospodarczy"
+				},
+				{
+					"a": "spadek bezrobocia --- ",
+					"b": "faza ożywienia"
+				}
+			]
+		},
+		{
+			"question": "Połącz opis z odpowiedni rodzajem inflacji",
+			"answers": [
+				{
+					"a": "wzrost cen paliw --- ",
+					"b": "inflacja kosztowa"
+				},
+				{
+					"a": "wzrost popytu w gospodarce pełnego zatrudnienia --- ",
+					"b": "inflacja popytowa"
+				},
+				{
+					"a": "chwilowy wzrost cen --- ",
+					"b": "inflacja sekularna"
+				},
+				{
+					"a": "wzrost cen energii elektrycznej --- ",
+					"b": "inflacja kosztowa"
+				},
+				{
+					"a": "wzrost cen na czarnym rynku, przy niezmienności cen na rynku jawnym --- ",
+					"b": "inflacja tłumiona"
+				},
+				{
+					"a": "wzrost płacy minimalnej --- ",
+					"b": "inlfacja kosztowa"
+				}
+			]
+		},
+		{
+			"question": "Połącz zdarzenie z nazwą przepływu w ruch okreżnym",
+			"answers": [
+				{
+					"a": "zakup samochodu przez Panią X --- ",
+					"b": "konsumpcja"
+				},
+				{
+					"a": "zakup akcji przedsiębiorstwa XYZ przez pana Kowalskiego --- ",
+					"b": "oszczędności"
+				},
+				{
+					"a": "zakup kina domowego przez rodzinę Nowaków --- ",
+					"b": "konsumpcja"
+				},
+				{
+					"a": "W warszawskich łazienkach stowrzono miejsca do biwakowania --- ",
+					"b": "wydatki rządowe"
+				},
+				{
+					"a": "zarobek pani Emilii, która otrzymała 6,50 za godzinę wprowadzania faktut w przedsiębiorstwie budowlanym --- ",
+					"b": "wynagrodzenie za czynniki wytwórcze"
+				},
+				{
+					"a": "wypłacenie 500+dla rodziny Iksińskich --- ",
+					"b": "wydatki transferowe"
+				},
+				{
+					"a": "zakup wyposażenia biurowego przez pracownika urzędu miasta Gliwice --- ",
+					"b": "wydatki rządowe"
+				},
+				{
+					"a": "zapłata za bułgarski dżem  z pigwy, kupiony w sklepie na rogu --- ",
+					"b": "konsumpcja"
+				},
+				{
+					"a": "Tomek kupił DVD w pobliskim sklepie --- ",
+					"b": "konsumpcja"
+				},
+				{
+					"a": "Maria zapłaciła podatek do urzędu skarbowego za wykonaną pracę --- ",
+					"b": "podatek bezpośredni"
+				},
+				{
+					"a": "akcyza ukryta w cenie paliwa --- ",
+					"b": "podatek pośredni"
+				},
+				{
+					"a": "wypłata zasiłku dla bezrobotnego Pana XYZ --- ",
+					"b": "wydatki transferowe"
+				},
+				{
+					"a": "zakup komputerów do firmy ABC --- ",
+					"b": "inwestycje"
+				},
+				{
+					"a": "zakup ciężarówek przez firmę transportową --- ",
+					"b": "inwestycje"
+				},
+				{
+					"a": "Dywidenda wypłacona przez firmę X akcjonariuszom --- ",
+					"b": "wynagrodzenie za czynniki wytwórcze"
+				},
+				{
+					"a": "wypłata wynagrodzenia za pracę nauczycielowi matematyki w szkole publicznej --- ",
+					"b": "wynagrodzenie za czynniki wytwórcze"
+				},
+				{
+					"a": "wydatki na utrzymanie więzienia we Wronkach --- ",
+					"b": "wydatki rządowe"
+				},
+				{
+					"a": "wyprodukowanie 5tys. sztuk dobra prez firmę XXX, które zostały zakupione przez firmę Y --- ",
+					"b": "inwestycje"
 				}
 			]
 		}
